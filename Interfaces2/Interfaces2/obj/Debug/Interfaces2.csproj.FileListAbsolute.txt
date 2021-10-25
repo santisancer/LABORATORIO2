@@ -1,0 +1,2 @@
+C:\Users\santiago\source\repos\Interfaces2\Interfaces2\obj\Debug\Interfaces2.csproj.AssemblyReference.cache
+C:\Users\santiago\source\repos\Interfaces2\Interfaces2\obj\Debug\Interfaces2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\santiago\source\repos\Punto15_sancer\Punto15_sancer\obj\Debug\netcoreapp3.1\Punto15_sancer.csproj.AssemblyReference.cache
+C:\Users\santiago\source\repos\Punto15_sancer\Punto15_sancer\obj\Debug\netcoreapp3.1\Punto15_sancer.Form1.resources
+C:\Users\santiago\source\repos\Punto15_sancer\Punto15_sancer\obj\Debug\netcoreapp3.1\Electrodomesticos.VentanaPrincipal.resources
+C:\Users\santiago\source\repos\Punto15_sancer\Punto15_sancer\obj\Debug\netcoreapp3.1\Punto15_sancer.csproj.GenerateResource.cache
+C:\Users\santiago\source\repos\Punto15_sancer\Punto15_sancer\obj\Debug\netcoreapp3.1\Punto15_sancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago\source\repos\Punto15_sancer\Punto15_sancer\obj\Debug\netcoreapp3.1\Punto15_sancer.AssemblyInfoInputs.cache
+C:\Users\santiago\source\repos\Punto15_sancer\Punto15_sancer\obj\Debug\netcoreapp3.1\Punto15_sancer.AssemblyInfo.cs
+C:\Users\santiago\source\repos\Punto15_sancer\Punto15_sancer\obj\Debug\netcoreapp3.1\Punto15_sancer.csproj.CoreCompileInputs.cache

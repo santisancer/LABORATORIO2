@@ -1,0 +1,7 @@
+C:\Users\santiago\source\repos\Punto18_santiagoSancer\Punto18_santiagoSancer\obj\Debug\netcoreapp3.1\Punto18_santiagoSancer.csproj.AssemblyReference.cache
+C:\Users\santiago\source\repos\Punto18_santiagoSancer\Punto18_santiagoSancer\obj\Debug\netcoreapp3.1\Punto18_santiagoSancer.Form1.resources
+C:\Users\santiago\source\repos\Punto18_santiagoSancer\Punto18_santiagoSancer\obj\Debug\netcoreapp3.1\Punto18_santiagoSancer.csproj.GenerateResource.cache
+C:\Users\santiago\source\repos\Punto18_santiagoSancer\Punto18_santiagoSancer\obj\Debug\netcoreapp3.1\Punto18_santiagoSancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago\source\repos\Punto18_santiagoSancer\Punto18_santiagoSancer\obj\Debug\netcoreapp3.1\Punto18_santiagoSancer.AssemblyInfoInputs.cache
+C:\Users\santiago\source\repos\Punto18_santiagoSancer\Punto18_santiagoSancer\obj\Debug\netcoreapp3.1\Punto18_santiagoSancer.AssemblyInfo.cs
+C:\Users\santiago\source\repos\Punto18_santiagoSancer\Punto18_santiagoSancer\obj\Debug\netcoreapp3.1\Punto18_santiagoSancer.csproj.CoreCompileInputs.cache
